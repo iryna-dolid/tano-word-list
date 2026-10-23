@@ -1,0 +1,168 @@
+id,source_id,korean,pos,grade,level,romanization,gloss_en,gloss_uk
+kd:70204,70204,유전자,noun,고급,4,yujeonja,gene,ген
+kd:35264,35264,규제,noun,고급,4,gyuje,regulation,регулювання (обмеження)
+kd:71557,71557,의혹,noun,고급,4,uihok,suspicion,підозра
+kd:79173,79173,체포,noun,고급,4,chepo,arrest,арешт
+kd:73724,73724,작별,noun,고급,4,jakbyeol,farewell,прощання
+kd:81620,81620,투자자,noun,고급,4,tujaja,investor,інвестор
+kd:75513,75513,조만간,adverb,고급,4,jomangan,sooner or later,невдовзі
+kd:85791,85791,형사,noun,고급,4,hyeongsa,detective,детектив (поліцейський)
+kd:92456,92456,음모,noun,고급,4,eummo,conspiracy,змова
+kd:76311,76311,진입,noun,고급,4,jinip,entry,входження
+kd:63834,63834,소지,noun,고급,5,soji,possession,володіння (наявність при собі)
+kd:73319,73319,자아,noun,고급,5,jaa,ego,его (власне «я»)
+kd:37397,37397,권총,noun,고급,5,gwonchong,pistol,пістолет
+kd:91248,91248,신자,noun,고급,5,sinja,believer,вірянин
+kd:41484,41484,내기,noun,고급,5,naegi,bet,парі
+kd:83065,83065,폐기물,noun,고급,5,pyegimul,waste,відходи
+kd:64273,64273,속임수,noun,고급,5,sogimsu,trick,обман
+kd:36515,36515,금리,noun,고급,5,geumni,interest rate,відсоткова ставка
+kd:45583,45583,누다,verb,고급,5,nuda,to relieve oneself,справляти нужду
+kd:79539,79539,추수,noun,고급,5,chusu,harvest,збір урожаю
+kd:22844,22844,공룡,noun,고급,5,gongnyong,dinosaur,динозавр
+kd:39532,39532,내뱉다,verb,고급,5,naebaetda,to spit out,випльовувати
+kd:84653,84653,성직자,noun,고급,5,seongjikja,clergy member,священнослужитель
+kd:83288,83288,고비,noun,고급,5,gobi,critical moment,критичний момент
+kd:69827,69827,웅크리다,verb,고급,5,ungkeurida,to crouch,скулюватися
+kd:84029,84029,학계,noun,고급,5,hakgye,academia,наукові кола
+kd:65484,65484,수직,noun,고급,5,sujik,vertical,вертикаль
+kd:56039,56039,낙타,noun,고급,5,nakta,camel,верблюд
+kd:59703,59703,부유하다,adjective,고급,5,buyuhada,wealthy,заможний
+kd:61334,61334,사슬,noun,고급,5,saseul,chain,ланцюг
+kd:15046,15046,가로채다,verb,고급,5,garochaeda,to snatch,перехоплювати
+kd:68591,68591,완화,noun,고급,5,wanhwa,easing,пом’якшення
+kd:70511,70511,어마어마하다,adjective,고급,5,eoma-eomahada,enormous,величезний
+kd:85140,85140,해군,noun,고급,5,haegun,navy,військово-морський флот
+kd:19905,19905,간첩,noun,고급,5,gancheop,spy,шпигун
+kd:55515,55515,멍하니,adverb,고급,5,meonghani,blankly,з відсутнім поглядом
+kd:40404,40404,느닷없이,adverb,고급,5,neudadeopssi,all of a sudden,зненацька
+kd:24955,24955,재정,noun,고급,5,jaejeong,finances,фінанси
+kd:55830,55830,모호하다,adjective,고급,5,mohohada,vague,нечіткий
+kd:68031,68031,왜곡,noun,고급,5,waegok,distortion,спотворення
+kd:60811,60811,비밀스럽다,adjective,고급,5,bimilseureopda,secretive,потайний
+kd:60688,60688,불러내다,verb,고급,5,bulleonaeda,to call out,викликати (когось вийти)
+kd:73842,73842,자손,noun,고급,5,jason,descendants,нащадки
+kd:82369,82369,집중력,noun,고급,5,jipjungnyeok,concentration,здатність зосереджуватися
+kd:31696,31696,전환,noun,고급,5,jeonhwan,conversion,перехід (зміна)
+kd:40553,40553,다시금,adverb,고급,5,dasigeum,once again,знову
+kd:72448,72448,유독,adverb,고급,5,yudok,particularly,особливо
+kd:31402,31402,교섭,noun,고급,5,gyoseop,negotiation,переговори
+kd:74704,74704,전시관,noun,고급,5,jeonsigwan,exhibition hall,виставкова зала
+kd:35258,35258,규율,noun,고급,5,gyuyul,discipline,дисципліна
+kd:37848,37848,기대감,noun,고급,5,gidaegam,expectation,очікування
+kd:78237,78237,차질,noun,고급,5,chajil,setback,збій (у планах)
+kd:18755,18755,고아원,noun,고급,5,goawon,orphanage,сиротинець
+kd:87092,87092,활력,noun,고급,5,hwallyeok,vitality,життєва сила
+kd:69026,69026,욕설,noun,고급,5,yokseol,swearing,лайка
+kd:85701,85701,행정부,noun,고급,5,haengjeongbu,executive branch,виконавча влада
+kd:16491,16491,상표,noun,고급,5,sangpyo,trademark,торгова марка
+kd:63993,63993,성화,noun,고급,5,seonghwa,nagging,докучання
+kd:47368,47368,더군다나,adverb,고급,5,deogundana,moreover,до того ж
+kd:86871,86871,현안,noun,고급,5,hyeonan,pending issue,невирішене питання
+kd:63183,63183,생소하다,adjective,고급,5,saengsohada,unfamiliar,незнайомий
+kd:85864,85864,강당,noun,고급,5,gangdang,auditorium,актова зала
+kd:27789,27789,최후,noun,고급,5,choehu,final moment,останній момент
+kd:15811,15811,만세,noun,고급,5,manse,hooray,ура
+kd:16482,16482,상인,noun,고급,5,sang-in,merchant,торговець
+kd:63742,63742,소신,noun,고급,5,sosin,conviction,переконання
+kd:44505,44505,대나무,noun,고급,5,daenamu,bamboo,бамбук
+kd:23841,23841,기체,noun,고급,5,giche,gas,газ
+kd:14474,14474,변신,noun,고급,5,byeonsin,transformation,перевтілення
+kd:60840,60840,분산,noun,고급,5,bunsan,dispersion,розосередження
+kd:15359,15359,감금,noun,고급,5,gamgeum,confinement,утримання під замком
+kd:78325,78325,참을성,noun,고급,6,chameulseong,patience,терплячість
+kd:84889,84889,한몫,noun,고급,6,hanmok,a share,частка
+kd:72201,72201,일그러지다,verb,고급,6,ilgeureojida,to be distorted,спотворюватися
+kd:59922,59922,부시다,adjective,고급,6,busida,dazzling,сліпучий
+kd:76212,76212,족하다,adjective,고급,6,jokada,sufficient,достатній
+kd:67152,67152,어투,noun,고급,6,eotu,tone of speech,манера мовлення
+kd:21608,21608,걱정거리,noun,고급,6,geokjeonggeori,worry,причина для хвилювання
+kd:28986,28986,진료,noun,고급,6,jillyo,medical treatment,лікування (у лікаря)
+kd:76085,76085,종착역,noun,고급,6,jongchangnyeok,terminal station,кінцева станція
+kd:79723,79723,초창기,noun,고급,6,chochanggi,early days,початковий період
+kd:74463,74463,재기,noun,고급,6,jaegi,comeback,повернення (після невдачі)
+kd:70909,70909,융합,noun,고급,6,yunghap,fusion,злиття
+kd:80742,80742,팥,noun,고급,6,pat,red bean,квасоля адзукі
+kd:67127,67127,약효,noun,고급,6,yakhyo,drug efficacy,дія ліків
+kd:65892,65892,승강기,noun,고급,6,seungganggi,elevator,ліфт
+kd:31479,31479,결여,noun,고급,6,gyeoryeo,lack,нестача
+kd:77474,77474,접종,noun,고급,6,jeopjong,vaccination,щеплення
+kd:23557,23557,기만,noun,고급,6,giman,deception,обман
+kd:79392,79392,치욕,noun,고급,6,chiyok,disgrace,ганьба
+kd:15110,15110,얼핏,adverb,고급,6,eolpit,at a glance,мигцем
+kd:32545,32545,깊숙이,adverb,고급,6,gipsugi,deep inside,глибоко всередині
+kd:73798,73798,잡다하다,adjective,고급,6,japdahada,miscellaneous,різномастий
+kd:35946,35946,근력,noun,고급,6,geullyeok,muscular strength,м’язова сила
+kd:58934,58934,번번이,adverb,고급,6,beonbeoni,every time,щоразу
+kd:24651,24651,주거,noun,고급,6,jugeo,residence,проживання
+kd:48094,48094,도우미,noun,고급,6,doumi,helper,помічник
+kd:73644,73644,잠꼬대,noun,고급,6,jamkkodae,sleep talking,розмови уві сні
+kd:58613,58613,백혈병,noun,고급,6,baekhyeolbyeong,leukemia,лейкемія
+kd:66111,66111,싹트다,verb,고급,6,ssakteuda,to sprout,зароджуватися
+kd:55123,55123,맹렬하다,adjective,고급,6,maengnyeolhada,fierce,запеклий
+kd:47375,47375,더듬거리다,verb,고급,6,deodeumgeorida,to fumble,намацувати
+kd:90312,90312,야단치다,verb,고급,6,yadanchida,to scold,сварити
+kd:40045,40045,기립,noun,고급,6,girip,standing up,вставання
+kd:91682,91682,지그시,adverb,고급,6,jigeusi,gently,легенько
+kd:55856,55856,목돈,noun,고급,6,mokdon,lump sum,велика сума грошей
+kd:68625,68625,온수,noun,고급,6,onsu,hot water,гаряча вода
+kd:26573,26573,개수,noun,고급,6,gaesu,number of items,кількість (штук)
+kd:55622,55622,무상,noun,고급,6,musang,free of charge,безоплатність
+kd:68037,68037,왜소하다,adjective,고급,6,waesohada,undersized,низькорослий
+kd:41177,41177,냉기,noun,고급,6,naenggi,chill,холодне повітря
+kd:82017,82017,편들다,verb,고급,6,pyeondeulda,to take sides,ставати на чийсь бік
+kd:54805,54805,먹구름,noun,고급,6,meokgureum,dark clouds,чорні хмари
+kd:84907,84907,한사코,adverb,고급,6,hansako,stubbornly,уперто
+kd:62700,62700,새하얗다,adjective,고급,6,saehayata,snow-white,білосніжний
+kd:84451,84451,적잖다,adjective,고급,6,jeokjanta,considerable,чималий
+kd:91911,91911,심화,noun,고급,6,simhwa,deepening,поглиблення
+kd:72687,72687,이주,noun,고급,6,iju,migration,переселення
+kd:28072,28072,가냘프다,adjective,고급,6,ganyalpeuda,slender,тендітний
+kd:57247,57247,반문,noun,고급,6,banmun,counter-question,зустрічне запитання
+kd:19632,19632,강산,noun,고급,6,gangsan,rivers and mountains,річки й гори
+kd:82891,82891,퇴직금,noun,고급,6,toejikgeum,severance pay,вихідна допомога
+kd:23624,23624,건망증,noun,고급,6,geonmangjeung,forgetfulness,забудькуватість
+kd:69236,69236,용모,noun,고급,6,yongmo,looks,зовнішність
+kd:57766,57766,미각,noun,고급,6,migak,sense of taste,відчуття смаку
+kd:26179,26179,가중,noun,고급,6,gajung,aggravation,обтяження
+kd:15155,15155,감원,noun,고급,6,gamwon,layoff,скорочення штату
+kd:60213,60213,분유,noun,고급,6,bunyu,powdered milk,сухе молоко
+kd:66481,66481,씀씀이,noun,고급,6,sseumsseumi,spending habits,звички витрачати
+kd:88495,88495,희로애락,noun,고급,6,hiroaerak,joys and sorrows,радощі й печалі
+kd:91727,91727,푸짐하다,adjective,고급,6,pujimhada,plentiful,щедрий (рясний)
+kd:76639,76639,중시,noun,고급,6,jungsi,emphasis,надання великого значення
+kd:64979,64979,숙면,noun,고급,6,sungmyeon,sound sleep,міцний сон
+kd:90305,90305,야기,noun,고급,6,yagi,causing,спричинення
+kd:15601,15601,손수,adverb,고급,6,sonsu,with one’s own hands,власноруч
+kd:60775,60775,비상금,noun,고급,6,bisanggeum,emergency fund,гроші на чорний день
+kd:90470,90470,다름없이,adverb,고급,6,dareumeopssi,just the same,так само
+kd:67496,67496,연령층,noun,고급,6,yeollyeongcheung,age group,вікова група
+kd:68508,68508,옹기종기,adverb,고급,6,onggijonggi,huddled together,тісною купкою
+kd:91915,91915,심혈,noun,고급,6,simhyeol,heart and soul,серце й душа
+kd:57165,57165,맞아떨어지다,verb,고급,6,majatteoreojida,to fit exactly,точно збігатися
+kd:69535,69535,아기자기하다,adjective,고급,6,agijagihada,cute and charming,милий і чарівний
+kd:38371,38371,까무러치다,verb,고급,6,kkamureochida,to faint,непритомніти
+kd:83571,83571,푸대접,noun,고급,6,pudaejeop,cold treatment,холодний прийом
+kd:68958,68958,우량,noun,고급,6,uryang,top quality,висока якість
+kd:62867,62867,설명문,noun,고급,6,seolmyeongmun,expository text,пояснювальний текст
+kd:24973,24973,알선,noun,고급,6,alseon,mediation,посередництво
+kd:84119,84119,한눈팔다,verb,고급,6,hannunpalda,to look away,відволікатися
+kd:68206,68206,오늘,noun,초급,1,oneul,today,сьогодні
+kd:67075,67075,어제,noun,초급,1,eoje,yesterday,вчорашній день
+kd:58175,58175,다,noun,초급,2,da,everything,усе
+kd:62446,62446,현재,noun,초급,2,hyeonjae,the present,теперішній час
+kd:30208,30208,혼자,adverb,초급,2,honja,alone,наодинці
+kd:17260,17260,결국,adverb,중급,3,gyeolguk,in the end / finally,зрештою
+kd:53768,53768,원래,adverb,중급,3,wollae,originally,від початку
+kd:65920,65920,그저께,adverb,초급,3,geujeokke,on the day before yesterday,позавчора (прислівник)
+kd:62395,62395,대부분,adverb,초급,3,daebubun,mostly,здебільшого
+kd:89056,89056,한창,adverb,중급,4,hanchang,in full swing,у розпалі
+kd:83310,83310,다소,noun,중급,4,daso,more or less,більш-менш (дещо)
+kd:15160,15160,엊그제,noun,중급,4,eotgeuje,the other day,днями (нещодавно)
+kd:30859,30859,그제,adverb,중급,5,geuje,on the day before yesterday,позавчора
+kd:20391,20391,낼모레,adverb,중급,5,naelmore,on the day after tomorrow,післязавтра
+kd:91711,91711,온종일,adverb,중급,5,onjong-il,all day,цілий день
+kd:70872,70872,점차,noun,중급,5,jeomcha,gradual progress,поступовість
+kd:91759,91759,종일,adverb,중급,5,jong-il,all day long,з ранку до вечора
+kd:84280,84280,하나하나,noun,중급,5,hanahana,each one,кожен окремо
+kd:14586,14586,어저께,noun,중급,5,eojeokke,yesterday,вчора (іменник)

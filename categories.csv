@@ -1,0 +1,54 @@
+id,section,korean,name_en,name_uk
+greetings,everyday,인사,Greetings,Привітання
+numbers,everyday,숫자,Numbers,Числа
+days,everyday,요일,Days of the week,Дні тижня
+months,everyday,월과 날짜,Months & dates,Місяці й дати
+time,everyday,시간,Time,Час
+colors,everyday,색깔,Colors,Кольори
+weather,everyday,날씨,Weather,Погода
+questions,everyday,질문,Questions,Запитання
+family,people,가족,Family,Родина
+body,people,몸,Body,Тіло
+feelings,people,감정,Feelings,Почуття
+jobs,people,직업,Jobs,Професії
+clothes,people,옷,Clothes,Одяг
+appearance,people,외모,Appearance,Зовнішність
+people,people,사람과 친구,People & friends,Люди й друзі
+personality,people,성격,Personality,Характер
+fruits,food,과일,Fruits,Фрукти
+vegetables,food,채소,Vegetables,Овочі
+korean-food,food,한국 음식,Korean food,Корейська їжа
+meals,food,식사,Meals,Прийоми їжі
+drinks,food,음료,Drinks,Напої
+snacks,food,간식,Snacks,Перекуси
+cooking,food,요리,Cooking,Готування
+restaurant,food,식당에서,At a restaurant,У ресторані
+home,places,집,Home,Дім
+city,places,도시,City,Місто
+school,places,학교,School,Школа
+shopping,places,쇼핑,Shopping,Покупки
+transport,places,교통,Transport,Транспорт
+travel,places,여행,Travel,Подорожі
+hospital,places,병원,Hospital,Лікарня
+directions,places,길 찾기,Directions,Напрямки
+animals,nature,동물,Animals,Тварини
+sea,nature,바다와 해변,Sea & beach,Море й пляж
+plants,nature,식물,Plants,Рослини
+seasons,nature,계절,Seasons,Пори року
+landscape,nature,자연,Landscape,Краєвиди
+hobbies,activities,취미,Hobbies,Хобі
+sports,activities,운동,Sports,Спорт
+music,activities,음악,Music,Музика
+technology,activities,기술과 인터넷,Technology,Технології
+daily-routine,activities,하루 일과,Daily routine,Розпорядок дня
+arts,activities,영화와 예술,Movies & arts,Кіно й мистецтво
+everyday-verbs,basics,기본 동사,Everyday verbs,Щоденні дієслова
+phrases,basics,기본 표현,Basic phrases,Базові фрази
+describing,basics,묘사하는 말,Describing things,Опис речей
+how-much,basics,양과 정도,How much,Скільки
+thinking,basics,생각,Thinking,Мислення
+little-words,basics,작은 말,Little words,Маленькі слова
+social,basics,만남과 관계,Social life,Спілкування
+talking,basics,대화와 미디어,Talking & media,Розмови й медіа
+society,basics,뉴스와 사회,News & society,Новини й суспільство
+daily-life,basics,일상생활,Daily life,Побут
